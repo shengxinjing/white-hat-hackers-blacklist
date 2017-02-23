@@ -7,6 +7,8 @@
     - [白帽事件](https://www.zhihu.com/question/47775182)
 * 异乡好居
     - [删代码](https://www.zhihu.com/question/46294596)
+* 百度
+    - 百度就不需要理由了
 * 阿里
     - [马云支持六四镇压学生](https://www.youtube.com/watch?v=2S7iIXlL7cM)
     - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
