@@ -37,6 +37,8 @@
     - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
 * 触控科技
     - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
+* 马上消费金融股份有限公司
+    - [高旭煦与马上消费金融股份有限公司劳动争议二审民事判决书](http://www.tianyancha.com/lawsuit/465f37ee630e453b963e746da421f37b)
 
 ### 技术合伙人
 
