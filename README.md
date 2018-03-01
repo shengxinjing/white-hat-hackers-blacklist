@@ -88,6 +88,7 @@
     - [汉东官场算什么，我被创投圈“暗算”的经历，沙书记都架不住](http://weibo.com/ttarticle/p/show?id=2309404098747628943708)
 * 成都景和千城科技股份有限公司
    - [承诺13薪不发,并被副总威胁](https://www.zhihu.com/question/267289087)
+   - [新办公室致头晕流鼻血 蓉景和千城员工戴防毒面具上班](http://sc.sina.com.cn/news/b/2017-02-22/detail-ifyarrcc8531205.shtml)
 
 ### 不确定的
 * 神舟深圳总部
