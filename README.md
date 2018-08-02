@@ -63,6 +63,8 @@
         - [欠款欠薪没融资，明星衣橱老板要携小三跑路了？](https://xw.qq.com/cmsid/20170906A02KJP00)
     - 新浪财经
         - [明星衣橱生死局:拖欠员工工资 认为讨薪的是落井下石|融资|张晨|浙江永强_新浪财经_新浪网](http://finance.sina.com.cn/chanjing/gsnews/2017-09-26/doc-ifymenmt6937590.shtml)
+* 平安集团
+    - [产品经历提了个需求:根据手机壳颜色改 app 背景色](http://www.hblady.com/4460.html)
 
 
 ### 技术合伙人
