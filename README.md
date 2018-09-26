@@ -41,9 +41,12 @@
     - 月饼们离职的P9，又入职阿里了，所以这事像闹剧，可以删除了
     - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
     - [月饼门开除程序员](https://www.zhihu.com/question/50600301) -->
+    
 
 * 百度无人车
     - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
+* 深圳跨境帮网络有限公司
+ - [深圳跨境帮网络公司老板拖欠工资](https://zhuanlan.zhihu.com/p/41959876)
 * 触控科技
     - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
 * 华为
