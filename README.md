@@ -47,6 +47,9 @@
     - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
 * 深圳跨境帮网络有限公司
  - [深圳跨境帮网络公司老板拖欠工资](https://zhuanlan.zhihu.com/p/41959876)
+* 深圳爱都科技有限公司
+- [offer上的薪资](https://pan.baidu.com/s/1c2_YgOq988__mKdiUo3HHA)
+- [正式合同上的薪资，并且不按合同日期发放薪资](https://pan.baidu.com/s/1I2zc3rzAswQpkao0uLXU-w)
 * 触控科技
     - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
 * 华为
