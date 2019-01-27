@@ -69,6 +69,8 @@
         - [欠款欠薪没融资，明星衣橱老板要携小三跑路了？](https://xw.qq.com/cmsid/20170906A02KJP00)
     - 新浪财经
         - [明星衣橱生死局:拖欠员工工资 认为讨薪的是落井下石|融资|张晨|浙江永强_新浪财经_新浪网](http://finance.sina.com.cn/chanjing/gsnews/2017-09-26/doc-ifymenmt6937590.shtml)
+* 有赞
+    - [电商有赞：执行996工作制 工作家庭平衡不好可以离婚](https://tech.sina.com.cn/i/2019-01-27/doc-ihqfskcp0796756.shtml)
 
 
 ### 技术合伙人
