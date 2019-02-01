@@ -1,0 +1,31 @@
+{
+  "name": "programmer-job-blacklist",
+  "version": "1.0.0",
+  "description": ":snail:我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接，不喜勿喷，欢迎大家关注我[微博](http://weibo.com/woniuppp)和提 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) 来参与维护这个名单",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "push": "npm run build && sh push.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shengxinjing/programmer-job-blacklist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shengxinjing/programmer-job-blacklist/issues"
+  },
+  "homepage": "https://github.com/shengxinjing/programmer-job-blacklist#readme",
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.0.0-alpha.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

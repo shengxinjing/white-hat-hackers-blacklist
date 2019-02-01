@@ -1,38 +1,38 @@
-# 程序员找工作黑名单
+---
+home: true
+heroImage: /logo.png
+# actionText: React →
+# actionLink: /react/
+locations: 北京
+features:
+- title: 黑名单
+  details: 有些坑程序员的事情 不应该被忘记
+  href: /blacklist/
+#   href:
+- title: 工具
+  details: 换靠谱工作之前，可能需要的工具
+  href: /tools/
 
-:snail:我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接，不喜勿喷，欢迎大家关注我[微博](http://weibo.com/woniuppp)和提 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) 来参与维护这个名单
+- title: 法律
+  details: 必要的时候，需要合理的武器帮助自己
+  href: /law/
+  
+footer: MIT Licensed | Copyright © shengxinjing
+
+---
 
 
-最近的事情 让我意识到 有些同行也是劣迹斑斑，需要记录一下 以后大家招聘注意
-
-
-
-### 写在前面
-
-谢谢 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues/20) 提醒
-
-首先，每一个程序猿，每一个公司都有黑点，但是如果把黑点放大了，黑名单就没存在的意义了。就拿这几个例子来吧
-
-1. 世纪佳缘认为白帽子，是违法的
-    * 虽然这件事是我怒开 repo 的[起因](https://www.zhihu.com/question/47775182)，但是他没有拖欠员工工资或不付工资
-
-2. 与创始人说的股份，那是个人争取的事
-    * 也没拖欠工资或不付工资
-    * 只是记住以后记得留个心眼，和合伙人不是只写代码就可以的
-3. 华为清理 34 岁以上员工，也是按照合同裁员，给赔偿
-    * 大公司更新换代，裁员没有任何问题，不裁员的公司早晚倒闭
-    * 华为也没有拖欠工资
-    * 只是我个人觉得，因为这件事，不想去华为工作 仅此而已，害怕到了34就被干掉
-4. 有些事情，应该被记住
-
+:snail:我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接，防止以后自己换工作被坑，不喜勿喷，欢迎大家关注我[微博](http://weibo.com/woniuppp)和提 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) 来参与维护这个名单
 
 
 
 ### 程序员黑名单
 * [如何看待摩拜前端负责人小春张耀春)疑似性骚扰女下属？](https://www.zhihu.com/question/289146339?from=groupmessage&isappinstalled=0&utm_medium=social&utm_oi=581028265741783040&utm_source=wechat_session)
 
-### 普通程序员
 
+
+
+### 普通程序员
 * 杭州有赞
     - [如何看待“有赞”年会公开宣布996工作制？](https://www.zhihu.com/question/309428750)
     - [有赞会得到法律的惩罚吗？](https://www.zhihu.com/question/310419862)
@@ -40,7 +40,6 @@
 * 便利蜂
     - [年底组织数学考试，考试不及格就开除。](https://zhuanlan.zhihu.com/p/55856617)
     - [脉脉匿名区的便利蜂](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTk3MzA4MjAsImlhdCI6MTU0ODY1NDI3OH0.UwkUFUh0wXgox30vxMCYyiRZW1dhzgWZKExIC6PT0V4)
-
 * 上海碧华信息技术有限公司
     - [Android开发者的艰难讨薪路程](https://juejin.im/post/59bb3de35188257e7a427a6d)
 * 世纪佳缘
@@ -48,21 +47,8 @@
 * 西山居
     - [如何看待西山居近期的大规模「劝退」](https://www.zhihu.com/question/40739038)
 
-<!-- * 阿里安全部门（待删除）
-    - 月饼们离职的P9，又入职阿里了，所以这事像闹剧，可以删除了
-    - [月饼门开除程序员](https://www.zhihu.com/question/50608658)
-    - [月饼门开除程序员](https://www.zhihu.com/question/50600301) -->
-    
-=======
-
-
 * 百度无人车
     - [如何看待为了挑战百度无人车安全性，李彦宏试乘时让工程师人为拦车？](https://www.zhihu.com/question/52768740?sort=created)
-* 深圳跨境帮网络有限公司
- - [深圳跨境帮网络公司老板拖欠工资](https://zhuanlan.zhihu.com/p/41959876)
-* 深圳爱都科技有限公司
-- [offer上的薪资](https://pan.baidu.com/s/1c2_YgOq988__mKdiUo3HHA)
-- [正式合同上的薪资，并且不按合同日期发放薪资](https://pan.baidu.com/s/1I2zc3rzAswQpkao0uLXU-w)
 * 触控科技
     - [如何看待触控与廖大解约？](https://www.zhihu.com/question/55756584/answer/146106517)
 * 华为
@@ -118,27 +104,12 @@
 * 北京聚道科技有限公司
     - [汉东官场算什么，我被创投圈“暗算”的经历，沙书记都架不住](http://weibo.com/ttarticle/p/show?id=2309404098747628943708)
 
-### 不确定的
-* 神舟深圳总部
-    - [神舟电脑深圳总部是否常在校招之后出现大规模离职？为什么？如何评价？](http://www.zhihu.com/question/49016853?utm_source=qq&utm_medium=social)
 
-
-### 选公司
-
-* 建议大家在选择公司的时候摸摸底子 http://tianyancha.com ，发现有问题直接问负责人省的吃哑巴亏。
-* [知乎合集：有哪些公司给你留下「还好没去这家公司」的印象？](https://www.zhihu.com/question/38718862)
-
-
-### 当技术合伙人建议
-* 选自[冯大辉的微博](http://weibo.com/1577826897/EwLWXoxtG) 只写代码和当合伙人，还是有很大差别的，我觉得上面的建议很中肯
-
-
-### 最后
-
-* 最后说一下心得，竟然还有希望 GitHub 处理这个 repo，原因是想维护github这份纯净，还把 GitHub 被墙和我挂钩，我真是醉了，就像一群待宰的羔羊，心想着只要老实一点，宰的就是别人不是我一样
 
 * 我只是记录一下自己看到过的事件，我自己下次换工作的时候防止踩坑，仅此而已
 * 我也没有那么愤世嫉俗，比如我以后换工作，还是会考虑百度阿里的，但是会避免上面出现的坑，比如百度无人车我就不去啦，阿里的其他很多部门还是很棒的，希望到时候不会因为这个名单把我 pass 吧:joy:
 
-> 求star，支持我继续把这个名单维护下去,谢谢支持
+
+
+
 
