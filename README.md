@@ -66,8 +66,6 @@
     - [你为什么从 4399 离职？](https://www.zhihu.com/question/22048775)
 * 酷派
     - [如何看待酷派在毕业入职前夕疑似解约 300 余名校招应届毕业生？](https://www.zhihu.com/question/59878776)  
-* 蛋壳公寓
-    - [我在蛋壳公寓的打工记录](https://zhuanlan.zhihu.com/p/27831054)
 * 明星衣橱
     - [如何看待明星衣橱有钱搞VR试衣间，却拖欠员工工资达1年以上？](https://maimai.cn/article/topic?id=21179)
     - 腾讯新闻
@@ -104,6 +102,8 @@
     - [怎么看待《街篮》手游研发商，成都乐曼多科技近日发生的殴打程序员事件？](https://www.zhihu.com/question/56705233)
 * 北京聚道科技有限公司
     - [汉东官场算什么，我被创投圈“暗算”的经历，沙书记都架不住](http://weibo.com/ttarticle/p/show?id=2309404098747628943708)
+* 蛋壳公寓
+    - [我在蛋壳公寓的打工记录](https://github.com/wangwenpei/aha-danke)
 
 ### 不确定的
 * 神舟深圳总部
