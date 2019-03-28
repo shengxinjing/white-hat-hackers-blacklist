@@ -69,7 +69,8 @@ company:
 ------
 
 ## 普通程序员
-
+- 智慧芽（苏州）
+    - [如何看待智慧芽不发年终奖，被员工在员工群里直怼，一怒之下当场开除员工?](https://www.zhihu.com/question/311214769/answer/590381149?utm_source=qq&utm_medium=social&utm_oi=43544223940608)
 - 杭州有赞
     - [如何看待“有赞”年会公开宣布996工作制？](https://www.zhihu.com/question/309428750)
     - [有赞会得到法律的惩罚吗？](https://www.zhihu.com/question/310419862)
