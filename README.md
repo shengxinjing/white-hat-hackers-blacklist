@@ -75,6 +75,12 @@
         - [欠款欠薪没融资，明星衣橱老板要携小三跑路了？](https://xw.qq.com/cmsid/20170906A02KJP00)
     - 新浪财经
         - [明星衣橱生死局:拖欠员工工资 认为讨薪的是落井下石|融资|张晨|浙江永强_新浪财经_新浪网](http://finance.sina.com.cn/chanjing/gsnews/2017-09-26/doc-ifymenmt6937590.shtml)
+* 跨越新科技（aka 跨越速运）
+    - 洗地的措辞就那几套，基本上是“发展前景好像听说不错”，以及同类的空话
+    - [如何看待跨越速运的裁员方式](https://www.zhihu.com/question/312825261)
+      - 补充说明
+        - 从 [问题日志](https://www.zhihu.com/question/312825261/log) 被有针对性且三番五次恶意编辑，可以看出跨越速运再次出动了水军洗地。
+        - 又是个水军洗地的[证据](https://www.zhihu.com/question/47203239/answer/643311492)
 
 
 ### 技术合伙人
