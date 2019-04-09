@@ -7,8 +7,17 @@ pipeline {
   }
   stages {
     stage('step-01') {
-      steps {
-        pwd()
+      parallel {
+        stage('step-01') {
+          steps {
+            pwd()
+          }
+        }
+        stage('allocate node') {
+          steps {
+            node(label: 'master')
+          }
+        }
       }
     }
     stage('step-02') {
