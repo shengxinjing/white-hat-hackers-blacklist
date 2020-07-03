@@ -1,4 +1,4 @@
-# 程序员找工作黑名单
+# 程序员找工作止名单
 
 :snail:我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接，不喜勿喷，欢迎大家关注我[微博](http://weibo.com/woniuppp)和提 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) 来参与维护这个名单
 
@@ -11,7 +11,7 @@
 
 谢谢 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues/20) 提醒
 
-首先，每一个程序猿，每一个公司都有黑点，但是如果把黑点放大了，黑名单就没存在的意义了。就拿这几个例子来吧
+首先，每一个程序猿，每一个公司都有黑点，但是如果把黑点放大了，止名单就没存在的意义了。就拿这几个例子来吧
 
 1. 世纪佳缘认为白帽子，是违法的
     * 虽然这件事是我怒开 repo 的[起因](https://www.zhihu.com/question/47775182)，但是他没有拖欠员工工资或不付工资
@@ -28,7 +28,7 @@
 
 
 
-### 程序员黑名单
+### 程序员止名单
 * [如何看待摩拜前端负责人小春（张耀春）疑似性骚扰女下属？](https://www.zhihu.com/question/289146339?from=groupmessage&isappinstalled=0&utm_medium=social&utm_oi=581028265741783040&utm_source=wechat_session)
 
 ### 普通程序员
